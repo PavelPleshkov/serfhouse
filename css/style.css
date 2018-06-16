@@ -81,11 +81,13 @@ body {
 	z-index: 2;
 }
 .header-top-contact__social {
-	background-color:  rgba(193, 193, 193, 0.8);
-	width: 200px;
-	height: 35px;
-	z-index: 2;
-	margin-top: 14px;
+    	background-color: rgba(193, 193, 193, 0.8);
+    	width: 168px;
+    	height: 35px;
+    	z-index: 2;
+    	margin-top: 14px;
+    	position: relative;
+    	right: 32px;
 }
 .header-top-icons__social {
 	display: flex;
